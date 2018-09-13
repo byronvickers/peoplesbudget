@@ -14,6 +14,12 @@
     text-align: center;
 }
 
+.acknowledgment {
+  position: absolute;
+  bottom: 0;
+  font-size:7px;
+}
+
 h1, p {
    font-family: 'Montserrat', sans-serif;
 }
